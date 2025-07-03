@@ -541,29 +541,29 @@ public class ButtonAll : MonoBehaviour
 		}
 		if (base.name == "butonWatchVideo")
 		{
-			AdsMenuden component6 = base.transform.parent.GetComponent<AdsMenuden>();
-			if ((bool)component6)
-			{
-				component6.VideoGoster();
-			}
+			//AdsMenuden component6 = base.transform.parent.GetComponent<AdsMenuden>();
+			//if ((bool)component6)
+			//{
+			//	component6.VideoGoster();
+			//}
 			Kucult();
 		}
 		if (base.name == "butonWatchCpoinT")
 		{
-			AdsMenuden component7 = base.transform.parent.GetComponent<AdsMenuden>();
-			if ((bool)component7)
-			{
-				component7.VideoGoster();
-			}
+			//AdsMenuden component7 = base.transform.parent.GetComponent<AdsMenuden>();
+			//if ((bool)component7)
+			//{
+			//	component7.VideoGoster();
+			//}
 			Kucult();
 		}
 		if (base.name == "butonLostWatch")
 		{
-			AdsMenuden component8 = base.transform.parent.GetComponent<AdsMenuden>();
-			if ((bool)component8)
-			{
-				component8.VideoGoster();
-			}
+			//AdsMenuden component8 = base.transform.parent.GetComponent<AdsMenuden>();
+			//if ((bool)component8)
+			//{
+			//	component8.VideoGoster();
+			//}
 			Kucult();
 		}
 		if (base.name == "butoNmainWATCH")

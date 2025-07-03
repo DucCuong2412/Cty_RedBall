@@ -106,7 +106,7 @@ public class AsansorTakipli : MonoBehaviour
 
 	public void NoktaEkle()
 	{
-		float num = 1f + (float)Random.Range(1, 10) * 0.1f;
+		float num = 1f + (float)UnityEngine.Random.Range(1, 10) * 0.1f;
 		Noktalar.Add(new Vector2(base.transform.position.x + num, base.transform.position.y + num));
 	}
 

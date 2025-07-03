@@ -45,8 +45,8 @@ public class MARKETsc : MonoBehaviour
 		string text = MevcutPara.ToString();
 		string kelime = "You have: $ " + text;
 		ButceFS.MetinDegis(kelime);
-		AdsMenuden component = base.gameObject.GetComponent<AdsMenuden>();
-		component.ajaxBAK();
+		//AdsMenuden component = base.gameObject.GetComponent<AdsMenuden>();
+		//component.ajaxBAK();
 	}
 
 	private void Start()

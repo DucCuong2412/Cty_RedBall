@@ -70,8 +70,8 @@ public class Uzayli : MonoBehaviour
 		if (!Dead && kim.gameObject.tag == "Player" && !Zararaldi)
 		{
 			float x = kim.gameObject.transform.position.x;
-			int num = Random.Range(150, 200);
-			int num2 = Random.Range(250, 300);
+			int num = UnityEngine.Random.Range(150, 200);
+			int num2 = UnityEngine.Random.Range(250, 300);
 			Vector2 force = ((!(x > base.transform.position.x)) ? new Vector2(-num2, num) : new Vector2(num2, num));
 			ReD2.AddForce(force);
 			Invoke("Sifirla", 1f);

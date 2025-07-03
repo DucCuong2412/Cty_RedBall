@@ -62,7 +62,7 @@ public class MenuCPointSc : MonoBehaviour
 		Csag.transform.GetChild(0).gameObject.SetActive(true);
 		Corta.transform.GetChild(0).gameObject.SetActive(true);
 		Hizala();
-		AdsMenuden component = base.gameObject.GetComponent<AdsMenuden>();
-		component.ajaxBAK();
+		//AdsMenuden component = base.gameObject.GetComponent<AdsMenuden>();
+		//component.ajaxBAK();
 	}
 }

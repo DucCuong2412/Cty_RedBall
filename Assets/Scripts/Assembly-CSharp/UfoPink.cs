@@ -162,8 +162,8 @@ public class UfoPink : MonoBehaviour
 	{
 		if (!finish && kim.gameObject.tag == "Player" && !Zararaldi)
 		{
-			float num = ((!((double)Random.Range(0, 1) < 0.5)) ? 1 : (-1));
-			int num2 = Random.Range(150, 200);
+			float num = ((!((double)UnityEngine.Random.Range(0, 1) < 0.5)) ? 1 : (-1));
+			int num2 = UnityEngine.Random.Range(150, 200);
 			Vector2 force = new Vector2(num * 300f, num2);
 			ReD2.GetComponent<Rigidbody2D>().AddForce(force);
 			Zararaldi = true;

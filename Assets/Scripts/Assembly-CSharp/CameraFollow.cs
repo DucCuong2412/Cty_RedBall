@@ -113,7 +113,7 @@ public class CameraFollow : MonoBehaviour
 			GameObject gameObject = GameObject.FindGameObjectWithTag("AdsMerkex");
 			if ((bool)gameObject)
 			{
-				gameObject.GetComponent<AdsCenter>().InterGoster();
+				//gameObject.GetComponent<AdsCenter>().InterGoster();
 			}
 		}
 	}
@@ -405,7 +405,7 @@ public class CameraFollow : MonoBehaviour
 		GameObject gameObject = GameObject.FindGameObjectWithTag("AdsMerkex");
 		if ((bool)gameObject)
 		{
-			gameObject.GetComponent<AdsCenter>().LevelBasladi();
+			//gameObject.GetComponent<AdsCenter>().LevelBasladi();
 		}
 		PlayerPrefs.SetInt("IzlenenVid", 0);
 		int @int = PlayerPrefs.GetInt("Sesvar");
