@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levelz/Necmi/mainMenu.unity
+    guid: cc9fc6696dfeb924bbb27dd298792778
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Levels.unity
+    guid: 07fcb6111e5a484408e038eae72a20cc
+  - enabled: 1
+    path: Assets/Levelz/Necmi/HowtoPlay.unity
+    guid: d86dcfa88ac2f2549ac49837a6b671fe
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_0.unity
+    guid: 983e64a2703cea046839b47aabe7f2e5
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_1.unity
+    guid: fc227c3829ffe7944b318dd0576c27ed
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_2.unity
+    guid: bd12039403fce7c4eb2ff6d6fb4d4155
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_3.unity
+    guid: e0b0415fdc29a3943ab6c13bfb1871ae
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_4.unity
+    guid: 8b8a0f54aa26d5a448bab9d5c1b467d8
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_5.unity
+    guid: e2b9a16b07e5bc0498c6cd70c8d4f832
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_6.unity
+    guid: c76a201072e24404c9aef94a87d30e29
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_7.unity
+    guid: 8821651926b06c043a81beb8c9f50e29
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_8.unity
+    guid: 25de3dc153fb09241a680d657e364904
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_10.unity
+    guid: 0697737c68c55c8488122f784cb69812
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_11.unity
+    guid: f030d9147c5d2004aa79a61e5ef7102c
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_12.unity
+    guid: 520716de7ff46784297148f3c5865401
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_13.unity
+    guid: 219316999a5856143a5c5b5cf4a3d478
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_14.unity
+    guid: 65fa0744e1cebbb41bf68619fb087782
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_9.unity
+    guid: 0ce08a58870483e489c8a58589241b39
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_15.unity
+    guid: ed673f49fe64d9f458af6027caabaf4b
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_16.unity
+    guid: 80151a18744a36d4c82eecf9130c686b
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_17.unity
+    guid: 270a448cdc6ec5a45968f11571a8b328
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_18.unity
+    guid: 02ef7ce91915f5143bee8ff2701d57e4
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_19.unity
+    guid: 242e50ea7422042469bc398c5891468d
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_20.unity
+    guid: 994d4cbfff518bf4387cd7b4938626e3
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_21.unity
+    guid: 1fc2c4634c39f894c8210ab32e847572
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_22.unity
+    guid: e13ce6c7327bfdc4f80536fc225013c8
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_23.unity
+    guid: 173ce22c317d862459739e71f4695fa8
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_24.unity
+    guid: cc427908ab4b0dd4dbef8c499d648134
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_25.unity
+    guid: 0a95d5278655ad7479e0dcf533bcfc4f
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_26.unity
+    guid: 790dfa576aa2e2b46aeeb2f89b448d87
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_27.unity
+    guid: 2607770d3e2681a4b9e6b2334e7ebd09
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_28.unity
+    guid: 8cc1503f14e518941b7162024c87788d
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_29.unity
+    guid: a10128304e9ecf640a2ff41bf12a6681
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_30.unity
+    guid: 91885a4fbe3f44349af03be789acff04
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_31.unity
+    guid: bd864be9809df96439103ac0a6c5ed17
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_32.unity
+    guid: 260ac2ca2a8f3b64ca76331669570a3a
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_33.unity
+    guid: 7c7ce4a0000a54942a639956bf115427
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_34.unity
+    guid: 2e3c313ce77ed6443b5b626900608628
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_35.unity
+    guid: 42a6c9d2312e6584fa30bc01beec8c9e
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_36.unity
+    guid: 18bd6d905411b814b8710fcf989a3de9
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_37.unity
+    guid: 1513ddba8a2e33f43944cf62c99138a9
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_38.unity
+    guid: 4aa7059e2ae113e4ea0de0b9f57ca077
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_39.unity
+    guid: b54bbc41cddf74944bddcf1485d8cd04
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_40.unity
+    guid: 45e7be2ae77febd488c9db9d7ed2cdc1
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_41.unity
+    guid: 74abf41e6e4c22a45a95e37f53bfef6a
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_42.unity
+    guid: 2d0a36f6e82641d4c9412d03a892e6f0
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_43.unity
+    guid: 7ea9b8cd9eb79ae489db94132540e5c3
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_44.unity
+    guid: 3012ffe633c0834429c573433c910224
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_45.unity
+    guid: 8f96afc28c480fd46a62abdddc715ce6
+  - enabled: 1
+    path: Assets/Levelz/Necmi/Level_46.unity
+    guid: 3e4eefa6a7da3d34599dc170e1ccbdd9

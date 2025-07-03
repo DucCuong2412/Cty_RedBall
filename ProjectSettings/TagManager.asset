@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - yildiz
+  - hareketli
+  - Piti
+  - AdsMerkex
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - zemin
+  - Oyuncu
+  - Paraci
+  - Para
+  - tekyon
+  - Robot
+  - Bocek
+  - haraketli
+  - Kirilan
+  - Tehlike
+  - Pinky
+  - PinkTrig
+  - OyuncuNot
+  - anahtar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enarka
+    uniqueID: 2290061205
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 3635038999
+    locked: 0
+  - name: Oyun
+    uniqueID: 2244552681
+    locked: 0
+  - name: Onplan
+    uniqueID: 1479839901
+    locked: 0
+  - name: Menu
+    uniqueID: 3663521041
+    locked: 0

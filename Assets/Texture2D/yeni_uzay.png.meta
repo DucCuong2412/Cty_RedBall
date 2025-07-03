@@ -1,0 +1,5100 @@
+fileFormatVersion: 2
+guid: c1c78a7ae45db424cb755308dd067631
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UzayKilic
+  - first:
+      213: 21300002
+    second: UzaylZirhi
+  - first:
+      213: 21300004
+    second: uzayliAgiz3
+  - first:
+      213: 21300006
+    second: uzayliAgiz5
+  - first:
+      213: 21300008
+    second: uzayliDikenler
+  - first:
+      213: 21300010
+    second: uzayliGovd2
+  - first:
+      213: 21300012
+    second: uzayliGoz3
+  - first:
+      213: 21300014
+    second: uzayliGoz3kapa
+  - first:
+      213: 21300016
+    second: uzayliKasSag
+  - first:
+      213: 21300018
+    second: uzayliKasSol
+  - first:
+      213: 21300020
+    second: uzayliKilicli
+  - first:
+      213: 21300022
+    second: DikenliBomb
+  - first:
+      213: 21300024
+    second: MiniGoz
+  - first:
+      213: 21300026
+    second: MiniGozKapa
+  - first:
+      213: 21300028
+    second: uzayliAgizNinja
+  - first:
+      213: 21300030
+    second: uzayliGozBeb2y
+  - first:
+      213: 21300032
+    second: uzayliGozBebBoss
+  - first:
+      213: 21300034
+    second: dinamitler
+  - first:
+      213: 21300036
+    second: kristali
+  - first:
+      213: 21300038
+    second: mum
+  - first:
+      213: 21300040
+    second: mumates
+  - first:
+      213: 21300042
+    second: UzayliYercekColor
+  - first:
+      213: 21300044
+    second: UzayliYercekimci
+  - first:
+      213: 21300046
+    second: YercekimEL
+  - first:
+      213: 21300048
+    second: YercekimEL2
+  - first:
+      213: 21300050
+    second: UzayliYercekColorA
+  - first:
+      213: 21300052
+    second: YercekimEL2S
+  - first:
+      213: 21300054
+    second: YercekimELS
+  - first:
+      213: 21300056
+    second: uzayliGozBeb2x
+  - first:
+      213: 21300058
+    second: uzaylAgizYer
+  - first:
+      213: 21300060
+    second: uzaylAgizYerD
+  - first:
+      213: 21300062
+    second: uzayliGoz1Yer
+  - first:
+      213: 21300064
+    second: uzayliGoz1YerK
+  - first:
+      213: 21300066
+    second: buztasi
+  - first:
+      213: 21300068
+    second: kartop1
+  - first:
+      213: 21300070
+    second: blokDikUst2
+  - first:
+      213: 21300072
+    second: kapiRotN
+  - first:
+      213: 21300074
+    second: kisakapi
+  - first:
+      213: 21300076
+    second: yuvarlak1
+  - first:
+      213: 21300078
+    second: Misket
+  - first:
+      213: 21300080
+    second: metal3c
+  - first:
+      213: 21300082
+    second: Bubbll
+  - first:
+      213: 21300084
+    second: gizlenenBlok
+  - first:
+      213: 21300086
+    second: gizlenenBlokL
+  - first:
+      213: 21300088
+    second: metalKutu3
+  - first:
+      213: 21300090
+    second: Colorra3
+  - first:
+      213: 21300092
+    second: DikkNokta
+  - first:
+      213: 21300094
+    second: blokDikAlt
+  - first:
+      213: 21300096
+    second: blokDikUst
+  - first:
+      213: 21300098
+    second: lastik
+  - first:
+      213: 21300100
+    second: MantarKirmizi
+  - first:
+      213: 21300102
+    second: MantarKirmizi2
+  - first:
+      213: 21300104
+    second: mantarDip
+  - first:
+      213: 21300106
+    second: mantarMini
+  - first:
+      213: 21300108
+    second: merkezx
+  - first:
+      213: 21300110
+    second: yuvarlakBuyuk
+  - first:
+      213: 21300112
+    second: kapiRot
+  - first:
+      213: 21300114
+    second: kapiRotM
+  - first:
+      213: 21300116
+    second: yosun1
+  - first:
+      213: 21300118
+    second: yosun2
+  - first:
+      213: 21300120
+    second: yosun3
+  - first:
+      213: 21300122
+    second: yosun4
+  - first:
+      213: 21300124
+    second: yosun6
+  - first:
+      213: 21300126
+    second: atestop
+  - first:
+      213: 21300128
+    second: dallar3
+  - first:
+      213: 21300130
+    second: dallar6
+  - first:
+      213: 21300132
+    second: goktas_buyuk1
+  - first:
+      213: 21300134
+    second: goktas_buyuk2
+  - first:
+      213: 21300136
+    second: otlukaya3
+  - first:
+      213: 21300138
+    second: dallar4
+  - first:
+      213: 21300140
+    second: yuvarlakMini
+  - first:
+      213: 21300142
+    second: otlukaya
+  - first:
+      213: 21300144
+    second: otlukaya2
+  - first:
+      213: 21300146
+    second: otlukayaUcan
+  - first:
+      213: 21300148
+    second: otlukayaUcan2
+  - first:
+      213: 21300150
+    second: otlukayaUcan3
+  - first:
+      213: 21300152
+    second: dallar2
+  - first:
+      213: 21300154
+    second: dallar5
+  - first:
+      213: 21300156
+    second: kaya_tile2
+  - first:
+      213: 21300158
+    second: kaya_tile4
+  - first:
+      213: 21300160
+    second: kaya_tileD1
+  - first:
+      213: 21300162
+    second: Berry
+  - first:
+      213: 21300164
+    second: Berry2
+  - first:
+      213: 21300166
+    second: BerryGovde
+  - first:
+      213: 21300168
+    second: BerrySap
+  - first:
+      213: 21300170
+    second: DikenliDiken
+  - first:
+      213: 21300172
+    second: DikenliGovd
+  - first:
+      213: 21300174
+    second: DikenliSap
+  - first:
+      213: 21300176
+    second: Gurzu
+  - first:
+      213: 21300178
+    second: YiyiciDiken
+  - first:
+      213: 21300180
+    second: YiyiciOrta
+  - first:
+      213: 21300182
+    second: YiyiciSag
+  - first:
+      213: 21300184
+    second: YiyiciSol
+  - first:
+      213: 21300186
+    second: angelKnif
+  - first:
+      213: 21300188
+    second: atestopp
+  - first:
+      213: 21300190
+    second: buz1a
+  - first:
+      213: 21300192
+    second: roket_alt
+  - first:
+      213: 21300194
+    second: roket_ust
+  - first:
+      213: 21300196
+    second: roketsag
+  - first:
+      213: 21300198
+    second: roketsol
+  - first:
+      213: 21300200
+    second: yuvarlak3
+  - first:
+      213: 21300202
+    second: Asansor_Takipli
+  - first:
+      213: 21300204
+    second: Asansor_TakipliL
+  - first:
+      213: 21300206
+    second: yosun5
+  - first:
+      213: 21300208
+    second: Bombacci
+  - first:
+      213: 21300210
+    second: metalKutu2
+  - first:
+      213: 21300212
+    second: Colorra2
+  - first:
+      213: 21300214
+    second: kok2
+  - first:
+      213: 21300216
+    second: kok3
+  - first:
+      213: 21300218
+    second: metal3lu
+  - first:
+      213: 21300220
+    second: yuvarlak2
+  - first:
+      213: 21300222
+    second: buztasi2
+  - first:
+      213: 21300224
+    second: goktas_kucuk1
+  - first:
+      213: 21300226
+    second: goktas_kucuk2
+  - first:
+      213: 21300228
+    second: kartopmini
+  - first:
+      213: 21300230
+    second: lava2
+  - first:
+      213: 21300232
+    second: tuvaletkagidi
+  - first:
+      213: 21300234
+    second: uzayliAgiz2
+  - first:
+      213: 21300236
+    second: uzayliAtar
+  - first:
+      213: 21300238
+    second: uzayliGovde3
+  - first:
+      213: 21300240
+    second: uzayliGoz2
+  - first:
+      213: 21300242
+    second: uzayliGoz2kapa
+  - first:
+      213: 21300244
+    second: uzayliGozBeb2
+  - first:
+      213: 21300246
+    second: uzayliGoz1Atici
+  - first:
+      213: 21300248
+    second: uzayliGozBebAtici
+  - first:
+      213: 21300250
+    second: uzayliGozlKapaAtici
+  - first:
+      213: 21300252
+    second: metalKutu1
+  - first:
+      213: 21300254
+    second: metal2merkez
+  - first:
+      213: 21300256
+    second: lazerlikMerkez
+  - first:
+      213: 21300258
+    second: uzayliAgiz
+  - first:
+      213: 21300260
+    second: uzayliAgiz6
+  - first:
+      213: 21300262
+    second: uzayliGovd
+  - first:
+      213: 21300264
+    second: uzayliGoz1
+  - first:
+      213: 21300266
+    second: uzayliGoz1kapa
+  - first:
+      213: 21300268
+    second: uzayliGozBeb
+  - first:
+      213: 21300270
+    second: Colorra1
+  - first:
+      213: 21300272
+    second: kaya2
+  - first:
+      213: 21300274
+    second: fire1
+  - first:
+      213: 21300276
+    second: fire2
+  - first:
+      213: 21300278
+    second: fire3
+  - first:
+      213: 21300280
+    second: fire4
+  - first:
+      213: 21300282
+    second: fire5
+  - first:
+      213: 21300284
+    second: fire6
+  - first:
+      213: 21300286
+    second: fire7
+  - first:
+      213: 21300288
+    second: fire8
+  - first:
+      213: 21300290
+    second: UzayliSapka
+  - first:
+      213: 21300292
+    second: uzayliTepeli
+  - first:
+      213: 21300294
+    second: UzayliSapka2
+  - first:
+      213: 21300296
+    second: UzayliSapka3
+  - first:
+      213: 21300298
+    second: DikenliBomb2
+  - first:
+      213: 21300300
+    second: MiniGoz2w
+  - first:
+      213: 21300302
+    second: uzayliGozBeb2Boss
+  - first:
+      213: 21300304
+    second: uzayliTepeliKapa
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UzayKilic
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 596
+        width: 73
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -9}
+        - {x: -36.5, y: 9}
+        - {x: 36.5, y: 9}
+        - {x: 36.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzaylZirhi
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 415
+        width: 82
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -22.5}
+        - {x: -41, y: 5.5}
+        - {x: -41, y: 25.5}
+        - {x: -32, y: 27.5}
+        - {x: 27.000002, y: 27.5}
+        - {x: 41, y: 25.5}
+        - {x: 41, y: 3.5}
+        - {x: 36, y: -24.5}
+        - {x: 23, y: -27.5}
+        - {x: -24, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgiz3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 336
+        width: 67
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -12.5}
+        - {x: -33.5, y: 12.5}
+        - {x: 33.5, y: 12.5}
+        - {x: 33.5, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgiz5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 40
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -3.5}
+        - {x: -20, y: 3.5}
+        - {x: 20, y: 3.5}
+        - {x: 20, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliDikenler
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 305
+        width: 105
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -14.5}
+        - {x: -52.499996, y: -7.5000005}
+        - {x: -52.499996, y: 22.5}
+        - {x: 52.499996, y: 22.5}
+        - {x: 52.499996, y: -10.5}
+        - {x: 35.5, y: -22.5}
+        - {x: -29.499998, y: -22.5}
+        - {x: -33.5, y: -16.5}
+        - {x: -40.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGovd2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 124
+        width: 115
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -57.5}
+        - {x: -57.5, y: -32.5}
+        - {x: -57.5, y: 49.5}
+        - {x: -55.5, y: 57.5}
+        - {x: 57.5, y: 57.5}
+        - {x: 57.5, y: -37.5}
+        - {x: 51.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 696
+        width: 108
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.000004, y: -32}
+        - {x: -54.000004, y: -32}
+        - {x: -54.000004, y: 22}
+        - {x: -52.999996, y: 25}
+        - {x: -17, y: 32}
+        - {x: 27.000002, y: 32}
+        - {x: 51, y: 25}
+        - {x: 54.000004, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz3kapa
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 762
+        width: 108
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.000004, y: -32}
+        - {x: -54.000004, y: -32}
+        - {x: -54.000004, y: 22}
+        - {x: -52.999996, y: 25}
+        - {x: -17, y: 32}
+        - {x: 27.000002, y: 32}
+        - {x: 51, y: 25}
+        - {x: 54.000004, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliKasSag
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 668
+        width: 43
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -9}
+        - {x: -21.5, y: 9}
+        - {x: 21.5, y: 9}
+        - {x: 21.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliKasSol
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 600
+        width: 42
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -9}
+        - {x: -21, y: 9}
+        - {x: 21, y: 9}
+        - {x: 21, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliKilicli
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 346
+        width: 107
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.500004, y: -41}
+        - {x: -53.500004, y: -41}
+        - {x: -53.500004, y: 36}
+        - {x: -51.5, y: 41}
+        - {x: 46.5, y: 41}
+        - {x: 53.500004, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikenliBomb
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 301
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -5}
+        - {x: -26.499998, y: -5}
+        - {x: -26.499998, y: 5}
+        - {x: -10.5, y: 25}
+        - {x: 3.5, y: 25}
+        - {x: 26.499998, y: 8}
+        - {x: 26.499998, y: -6}
+        - {x: 7.5000005, y: -25}
+        - {x: -5.5, y: -25}
+        - {x: -21.5, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGoz
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 705
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000001, y: -16.5}
+        - {x: -15.000001, y: 16.5}
+        - {x: 15.000001, y: 16.5}
+        - {x: 15.000001, y: -16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGozKapa
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 664
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -17}
+        - {x: -15.5, y: 17}
+        - {x: 15.5, y: 17}
+        - {x: 15.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgizNinja
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5
+        width: 46
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -10.5}
+        - {x: -23, y: 10.5}
+        - {x: 23, y: 10.5}
+        - {x: 23, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBeb2y
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 385
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBebBoss
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -11}
+        - {x: -11, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dinamitler
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 825
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -36}
+        - {x: -56, y: -32}
+        - {x: -56, y: 36}
+        - {x: -4, y: 36}
+        - {x: 46, y: 15.000001}
+        - {x: 56, y: 4}
+        - {x: 56, y: -27.000002}
+        - {x: 36, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kristali
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 480
+        width: 73
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -42}
+        - {x: -36.5, y: -26}
+        - {x: -36.5, y: 8}
+        - {x: -26.499998, y: 33}
+        - {x: -12.5, y: 52}
+        - {x: 2.5, y: 52}
+        - {x: 27.5, y: 37}
+        - {x: 36.5, y: 21}
+        - {x: 36.5, y: -24}
+        - {x: 29.499998, y: -52}
+        - {x: -19.5, y: -52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mum
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 515
+        width: 51
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -42}
+        - {x: -25.5, y: -39}
+        - {x: -25.5, y: 28}
+        - {x: -8.5, y: 42}
+        - {x: 6.5, y: 42}
+        - {x: 25.5, y: 33}
+        - {x: 25.5, y: -39}
+        - {x: 22.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mumates
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 891
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -17}
+        - {x: -12, y: 17}
+        - {x: 12, y: 17}
+        - {x: 12, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliYercekColor
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 112
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.500001, y: -9}
+        - {x: -13.500001, y: 9}
+        - {x: 13.500001, y: 9}
+        - {x: 13.500001, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliYercekimci
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 400
+        width: 83
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -47.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -41.5, y: 31.5}
+        - {x: -26.499998, y: 44.5}
+        - {x: -15.5, y: 47.5}
+        - {x: 29.499998, y: 47.5}
+        - {x: 41.5, y: 43.5}
+        - {x: 41.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YercekimEL
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 336
+        width: 61
+        height: 25
+      alignment: 9
+      pivot: {x: 0.85, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.49997, y: -12.5}
+        - {x: -30.49997, y: 12.5}
+        - {x: 30.500027, y: 12.5}
+        - {x: 30.500027, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YercekimEL2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 594
+        width: 43
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81000006, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.500015, y: -10}
+        - {x: -21.500015, y: 10}
+        - {x: 21.499985, y: 10}
+        - {x: 21.499985, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliYercekColorA
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -12}
+        - {x: -19, y: 12}
+        - {x: 19, y: 12}
+        - {x: 19, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YercekimEL2S
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 594
+        width: 43
+        height: 20
+      alignment: 9
+      pivot: {x: 0.19, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.499983, y: -9.999988}
+        - {x: -21.499983, y: 10.000012}
+        - {x: 21.500017, y: 10.000012}
+        - {x: 21.500017, y: -9.999988}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YercekimELS
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 336
+        width: 61
+        height: 25
+      alignment: 9
+      pivot: {x: 0.157, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.500027, y: -12.5}
+        - {x: -30.500027, y: 12.499999}
+        - {x: 30.49997, y: 12.499999}
+        - {x: 30.49997, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBeb2x
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 383
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5000005, y: -7.5000005}
+        - {x: -7.5000005, y: 7.5000005}
+        - {x: 7.5000005, y: 7.5000005}
+        - {x: 7.5000005, y: -7.5000005}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzaylAgizYer
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 593
+        width: 57
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -10}
+        - {x: -28.5, y: 10}
+        - {x: 28.5, y: 10}
+        - {x: 28.5, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzaylAgizYerD
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 6
+        width: 40
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -10}
+        - {x: -20, y: 10}
+        - {x: 20, y: 10}
+        - {x: 20, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz1Yer
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 105
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -21}
+        - {x: -19.5, y: -21}
+        - {x: -19.5, y: 19}
+        - {x: -17.5, y: 21}
+        - {x: 15.5, y: 21}
+        - {x: 19.5, y: 20}
+        - {x: 19.5, y: -15.000001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz1YerK
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 105
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.500001, y: -21}
+        - {x: -20.5, y: -17}
+        - {x: -20.5, y: 20}
+        - {x: -18.5, y: 21}
+        - {x: 16.5, y: 21}
+        - {x: 19.5, y: 16}
+        - {x: 20.5, y: 13}
+        - {x: 20.5, y: -11}
+        - {x: 13.500001, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buztasi
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 482
+        width: 108
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -51}
+        - {x: -54.000004, y: -40}
+        - {x: -54.000004, y: 28}
+        - {x: -35, y: 51}
+        - {x: 44, y: 51}
+        - {x: 54.000004, y: 43}
+        - {x: 54.000004, y: -32}
+        - {x: 26, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kartop1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3
+        width: 101
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -50}
+        - {x: -50.5, y: -48}
+        - {x: -50.5, y: 37}
+        - {x: -47.5, y: 50}
+        - {x: 33.5, y: 50}
+        - {x: 50.5, y: 45}
+        - {x: 50.5, y: -26}
+        - {x: 49.5, y: -34}
+        - {x: 39.5, y: -50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blokDikUst2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 335
+        width: 78
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -10.5}
+        - {x: -39, y: 10.5}
+        - {x: 39, y: 10.5}
+        - {x: 39, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapiRotN
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 252
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -23.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -20.5, y: 23.5}
+        - {x: 21.5, y: 23.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 14.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisakapi
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 132
+        width: 105
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.499996, y: -7}
+        - {x: -52.499996, y: 7}
+        - {x: 52.499996, y: 7}
+        - {x: 52.499996, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuvarlak1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 53
+        width: 185
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -92.5}
+        - {x: -92.5, y: -61.5}
+        - {x: -92.5, y: 64.5}
+        - {x: -45.5, y: 92.5}
+        - {x: 33.5, y: 92.5}
+        - {x: 83.5, y: 69.5}
+        - {x: 92.5, y: 37.5}
+        - {x: 92.5, y: -53.500004}
+        - {x: 53.500004, y: -92.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Misket
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 185
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -20.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -20.5, y: 20.5}
+        - {x: 20.5, y: 20.5}
+        - {x: 20.5, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal3c
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 363
+        width: 220
+        height: 18
+      alignment: 9
+      pivot: {x: 0.034, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.00001, y: -9}
+        - {x: -110.00001, y: 9}
+        - {x: 109.99998, y: 9}
+        - {x: 109.99998, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbll
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 768
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -62.5}
+        - {x: -62.5, y: -41.5}
+        - {x: -62.5, y: 36.5}
+        - {x: -54.5, y: 62.5}
+        - {x: 35.5, y: 62.5}
+        - {x: 62.5, y: 53.500004}
+        - {x: 62.5, y: -39.5}
+        - {x: 54.5, y: -62.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gizlenenBlok
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 913
+        width: 123
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: -18}
+        - {x: -61.5, y: -18}
+        - {x: -61.5, y: 18}
+        - {x: 61.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gizlenenBlokL
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -10.5}
+        - {x: -10, y: 10.5}
+        - {x: 10, y: 10.5}
+        - {x: 10, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalKutu3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 241
+        width: 91
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -45.5}
+        - {x: -45.5, y: -45.5}
+        - {x: -45.5, y: 45.5}
+        - {x: 45.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorra3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 105
+        width: 47
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -12.5}
+        - {x: -23.5, y: 12.5}
+        - {x: 23.5, y: 12.5}
+        - {x: 23.5, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikkNokta
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 9
+        width: 78
+        height: 1
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -0.5}
+        - {x: -39, y: 0.5}
+        - {x: 39, y: 0.5}
+        - {x: 39, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blokDikAlt
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 78
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -10.5}
+        - {x: -39, y: 10.5}
+        - {x: 39, y: 10.5}
+        - {x: 39, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blokDikUst
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 697
+        width: 78
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -34}
+        - {x: -39, y: -34}
+        - {x: -39, y: 14}
+        - {x: -29, y: 34}
+        - {x: 38, y: 34}
+        - {x: 39, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lastik
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 615
+        width: 134
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: -67}
+        - {x: -67, y: -67}
+        - {x: -67, y: 58}
+        - {x: -37, y: 66}
+        - {x: -31, y: 67}
+        - {x: 32, y: 67}
+        - {x: 67, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantarKirmizi
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 824
+        width: 201
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.5, y: -35.999973}
+        - {x: -100.5, y: -35.999973}
+        - {x: -100.5, y: 2.0000267}
+        - {x: -60.5, y: 39.000027}
+        - {x: 54.5, y: 39.000027}
+        - {x: 100.5, y: -4.9999733}
+        - {x: 100.5, y: -38.999973}
+        - {x: -10.5, y: -38.999973}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MantarKirmizi2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 249
+        width: 164
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: -42.50001}
+        - {x: -82, y: -42.50001}
+        - {x: -82, y: 8.499989}
+        - {x: -42, y: 42.49999}
+        - {x: 43, y: 42.49999}
+        - {x: 50, y: 40.49999}
+        - {x: 82, y: 0.49998856}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantarDip
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 149
+        width: 51
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -49}
+        - {x: -25.5, y: -49}
+        - {x: -25.5, y: 20}
+        - {x: -17.5, y: 49}
+        - {x: 24.5, y: 49}
+        - {x: 25.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantarMini
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 610
+        width: 137
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: -38.50001}
+        - {x: -68.5, y: -38.50001}
+        - {x: -68.5, y: 24.499989}
+        - {x: -61.5, y: 36.49999}
+        - {x: -48.5, y: 38.49999}
+        - {x: 51.5, y: 38.49999}
+        - {x: 68.5, y: 26.499985}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: merkezx
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 216
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -22.5}
+        - {x: -23, y: -7.5000005}
+        - {x: -23, y: 3.5}
+        - {x: -6, y: 22.5}
+        - {x: 15.000001, y: 22.5}
+        - {x: 23, y: 10.5}
+        - {x: 23, y: -14.5}
+        - {x: 10, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuvarlakBuyuk
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 626
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -62.5}
+        - {x: -62.5, y: -62.5}
+        - {x: -62.5, y: -25.5}
+        - {x: -30.5, y: 51.5}
+        - {x: 14.5, y: 62.5}
+        - {x: 62.5, y: 62.5}
+        - {x: 62.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapiRot
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 42
+        height: 141
+      alignment: 9
+      pivot: {x: 0.76, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.000013, y: -68.5}
+        - {x: -21.000013, y: -26.5}
+        - {x: -21.000013, y: 50.5}
+        - {x: -16.000015, y: 70.5}
+        - {x: 20.999987, y: 70.5}
+        - {x: 20.999987, y: 18.5}
+        - {x: 17.999987, y: -67.5}
+        - {x: 15.999987, y: -70.5}
+        - {x: -12.000013, y: -70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapiRotM
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -10.5}
+        - {x: -10.5, y: 10.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 10.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 81
+        height: 236
+      alignment: 9
+      pivot: {x: 0.47999996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 60}
+        - {x: -11.5, y: 53}
+        - {x: -12.5, y: 61}
+        - {x: -40.5, y: 73}
+        - {x: -40.5, y: 103}
+        - {x: -18.5, y: 117.999985}
+        - {x: 5.5, y: 117.999985}
+        - {x: 6.5, y: 115}
+        - {x: 6.5, y: 104}
+        - {x: 5.5, y: 99}
+        - {x: 11.5, y: 104}
+        - {x: 17.5, y: 106}
+        - {x: 40.5, y: 105}
+        - {x: 40.5, y: -89}
+        - {x: 38.5, y: -93}
+        - {x: 3.5, y: -118}
+        - {x: -8.5, y: -118}
+        - {x: -37.5, y: -87}
+        - {x: -40.5, y: -46}
+        - {x: -40.5, y: 51}
+        - {x: -32.5, y: 65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 69
+        height: 225
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -112.5}
+        - {x: -34.5, y: -103.5}
+        - {x: -34.5, y: 112.5}
+        - {x: 19.5, y: 112.5}
+        - {x: 34.5, y: 99.499985}
+        - {x: 34.5, y: -39.5}
+        - {x: 30.500002, y: -37.5}
+        - {x: 34.5, y: -40.5}
+        - {x: 34.5, y: -62.5}
+        - {x: 10.5, y: -107.5}
+        - {x: 6.5, y: -112.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 494
+        width: 65
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.500001, y: 19.499996}
+        - {x: -13.500001, y: 19.499996}
+        - {x: -14.5, y: 5.499996}
+        - {x: -8.5, y: 8.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 6
+        width: 86
+        height: 97
+      alignment: 9
+      pivot: {x: 0.55, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.999989, y: -44.5}
+        - {x: -42.99999, y: -31.5}
+        - {x: -42.99999, y: 11.5}
+        - {x: -30.999989, y: 42.5}
+        - {x: -25.999989, y: 48.5}
+        - {x: 38.00001, y: 48.5}
+        - {x: 43.00001, y: 40.5}
+        - {x: 43.00001, y: -24.5}
+        - {x: 25.000011, y: -48.5}
+        - {x: -16.999989, y: -48.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 620
+        width: 141
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33, y: 0.098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.499973, y: -33.000015}
+        - {x: -70.50003, y: -33.000015}
+        - {x: -70.50003, y: 13.999983}
+        - {x: -38.500027, y: 32.999985}
+        - {x: 16.499973, y: 32.999985}
+        - {x: 62.499973, y: -0.000017166138}
+        - {x: 70.49997, y: -19.000017}
+        - {x: 70.49997, y: -30.000017}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atestop
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 383
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -41.5}
+        - {x: -52.999996, y: -29.499998}
+        - {x: -52.999996, y: 24.5}
+        - {x: -41, y: 45.5}
+        - {x: -28, y: 49.5}
+        - {x: 30.000002, y: 49.5}
+        - {x: 52.999996, y: 26.499998}
+        - {x: 52.999996, y: -45.5}
+        - {x: 40, y: -49.5}
+        - {x: -46, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dallar3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 552
+        width: 13
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -33}
+        - {x: -6.5, y: 33}
+        - {x: 6.5, y: 33}
+        - {x: 6.5, y: -33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dallar6
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 774
+        width: 15
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5000005, y: -32.5}
+        - {x: -7.5000005, y: 32.5}
+        - {x: 7.5000005, y: 32.5}
+        - {x: 7.5000005, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goktas_buyuk1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 751
+        width: 147
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.500004, y: -65}
+        - {x: -73.5, y: -44}
+        - {x: -73.5, y: 23}
+        - {x: -51.5, y: 65}
+        - {x: 36.5, y: 65}
+        - {x: 73.5, y: 38}
+        - {x: 73.5, y: -21}
+        - {x: 70.5, y: -35}
+        - {x: 48.5, y: -65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goktas_buyuk2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 895
+        width: 146
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -63.5}
+        - {x: -73, y: -44.5}
+        - {x: -73, y: 39.5}
+        - {x: -38, y: 63.5}
+        - {x: 58.999996, y: 63.5}
+        - {x: 73, y: 36.5}
+        - {x: 73, y: -44.5}
+        - {x: 36, y: -63.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukaya3
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 951
+        width: 124
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -35.5}
+        - {x: -62, y: -26.499998}
+        - {x: -62, y: 22.5}
+        - {x: -61, y: 27.5}
+        - {x: -55, y: 32.5}
+        - {x: -30.000002, y: 35.5}
+        - {x: 62, y: 35.5}
+        - {x: 62, y: -22.5}
+        - {x: 56, y: -25.5}
+        - {x: 28, y: -33.5}
+        - {x: 12, y: -35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dallar4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 841
+        width: 18
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -30.5}
+        - {x: -9, y: 30.5}
+        - {x: 9, y: 30.5}
+        - {x: 9, y: -30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuvarlakMini
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 688
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -30.000002}
+        - {x: -30.000002, y: -20}
+        - {x: -30.000002, y: 23}
+        - {x: -20, y: 30.000002}
+        - {x: 17, y: 30.000002}
+        - {x: 19, y: 29}
+        - {x: 30.000002, y: 16}
+        - {x: 30.000002, y: -19}
+        - {x: 16, y: -30.000002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukaya
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 904
+        width: 210
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -39.5}
+        - {x: -104.99999, y: -33.5}
+        - {x: -104.99999, y: 37.5}
+        - {x: -98, y: 39.5}
+        - {x: 104.99999, y: 39.5}
+        - {x: 104.99999, y: -20.5}
+        - {x: 92, y: -39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukaya2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 244
+        width: 242
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: -31.5}
+        - {x: -121, y: 8.5}
+        - {x: -121, y: 44.5}
+        - {x: 121, y: 44.5}
+        - {x: 121, y: 2.5}
+        - {x: 88, y: -44.5}
+        - {x: -96, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukayaUcan
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 700
+        width: 98
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -33.5}
+        - {x: -49, y: -13.500001}
+        - {x: -49, y: 33.5}
+        - {x: 49, y: 33.5}
+        - {x: 49, y: -9.5}
+        - {x: 42, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukayaUcan2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 828
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.000004, y: -40.5}
+        - {x: -56, y: -28.5}
+        - {x: -56, y: 26.499998}
+        - {x: -52, y: 37.5}
+        - {x: -32, y: 41.5}
+        - {x: 52, y: 41.5}
+        - {x: 56, y: 39.5}
+        - {x: 56, y: -37.5}
+        - {x: 55, y: -41.5}
+        - {x: -51, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otlukayaUcan3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 615
+        width: 95
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -39.5}
+        - {x: -47.5, y: -23.5}
+        - {x: -47.5, y: 38.5}
+        - {x: -46.5, y: 39.5}
+        - {x: 43.5, y: 39.5}
+        - {x: 47.5, y: 31.5}
+        - {x: 47.5, y: -18.5}
+        - {x: 22.5, y: -39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dallar2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 623
+        width: 12
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -6, y: 32}
+        - {x: 6, y: 32}
+        - {x: 6, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dallar5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 927
+        width: 25
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -28}
+        - {x: -12.5, y: 28}
+        - {x: 12.5, y: 28}
+        - {x: 12.5, y: -28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaya_tile2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 546
+        width: 94
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -31}
+        - {x: -47, y: -23}
+        - {x: -47, y: 23}
+        - {x: -28, y: 31}
+        - {x: 38, y: 31}
+        - {x: 47, y: 17}
+        - {x: 47, y: -17}
+        - {x: 31, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaya_tile4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 364
+        width: 68
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -28.5}
+        - {x: -34, y: -24.5}
+        - {x: -34, y: 15.5}
+        - {x: -29, y: 28.5}
+        - {x: 34, y: 28.5}
+        - {x: 34, y: -28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaya_tileD1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 53
+        width: 104
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -21.5}
+        - {x: -52, y: -21.5}
+        - {x: -52, y: 10.5}
+        - {x: -32, y: 21.5}
+        - {x: 47, y: 21.5}
+        - {x: 52, y: 7.5000005}
+        - {x: 52, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berry
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 620
+        width: 65
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -33.5}
+        - {x: -32.5, y: -29.499998}
+        - {x: -32.5, y: 25.5}
+        - {x: -25.5, y: 33.5}
+        - {x: 21.5, y: 33.5}
+        - {x: 32.5, y: 29.499998}
+        - {x: 32.5, y: -26.499998}
+        - {x: 25.5, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berry2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 467
+        width: 70
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -21}
+        - {x: -35, y: -17}
+        - {x: -35, y: 32}
+        - {x: -24, y: 36}
+        - {x: 28, y: 36}
+        - {x: 35, y: 28}
+        - {x: 35, y: -24}
+        - {x: 21, y: -36}
+        - {x: -18, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerryGovde
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 430
+        width: 81
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -41.5}
+        - {x: -40.5, y: -36.5}
+        - {x: -40.5, y: 27.5}
+        - {x: -23.5, y: 41.5}
+        - {x: 39.5, y: 41.5}
+        - {x: 40.5, y: 37.5}
+        - {x: 40.5, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BerrySap
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 478
+        width: 11
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -135.5}
+        - {x: -5.5, y: 135.5}
+        - {x: 5.5, y: 135.5}
+        - {x: 5.5, y: -135.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikenliDiken
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 352
+        width: 92
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 5.5}
+        - {x: 10, y: 7.5000005}
+        - {x: 10, y: 18.5}
+        - {x: 13, y: 25.5}
+        - {x: 46, y: 25.5}
+        - {x: 46, y: 13.500001}
+        - {x: 25, y: 5.5}
+      - - {x: -34, y: 1.5}
+        - {x: -46, y: 14.5}
+        - {x: -46, y: 20.5}
+        - {x: -43, y: 20.5}
+        - {x: -23, y: 22.5}
+        - {x: -8, y: 22.5}
+        - {x: -8, y: 5.5}
+        - {x: -10, y: 1.5}
+      - - {x: 10, y: -25.5}
+        - {x: 7, y: -23.5}
+        - {x: 7, y: -17.5}
+        - {x: 11, y: -9.5}
+        - {x: 30.000002, y: -9.5}
+        - {x: 44, y: -17.5}
+        - {x: 44, y: -24.5}
+        - {x: 43, y: -25.5}
+      - - {x: -45, y: -24.5}
+        - {x: -46, y: -23.5}
+        - {x: -46, y: -13.500001}
+        - {x: -30.000002, y: -8.5}
+        - {x: -9, y: -8.5}
+        - {x: -7, y: -10.5}
+        - {x: -7, y: -21.5}
+        - {x: -9, y: -25.5}
+        - {x: -38, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikenliGovd
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 696
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -35}
+        - {x: -26, y: -28}
+        - {x: -26, y: 27.000002}
+        - {x: -17, y: 35}
+        - {x: 14, y: 35}
+        - {x: 26, y: 24}
+        - {x: 26, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikenliSap
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 27
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.500001, y: -135.5}
+        - {x: -13.500001, y: 135.5}
+        - {x: 13.500001, y: 135.5}
+        - {x: 13.500001, y: -135.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurzu
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 363
+        width: 119
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -58.999996}
+        - {x: -59.500004, y: -58.999996}
+        - {x: -59.500004, y: 58.999996}
+        - {x: 59.500004, y: 58.999996}
+        - {x: 59.500004, y: 42}
+        - {x: 46.5, y: -54.000004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YiyiciDiken
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 696
+        width: 36
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -40}
+        - {x: -18, y: -40}
+        - {x: -18, y: 40}
+        - {x: 18, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YiyiciOrta
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 541
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -16}
+        - {x: -28.5, y: -15.000001}
+        - {x: -28.5, y: 16}
+        - {x: 28.5, y: 16}
+        - {x: 28.5, y: -13}
+        - {x: 26.499998, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YiyiciSag
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 790
+        width: 194
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -16}
+        - {x: -97, y: -16}
+        - {x: -97, y: 12}
+        - {x: -88, y: 16}
+        - {x: 97, y: 16}
+        - {x: 97, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YiyiciSol
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 758
+        width: 193
+        height: 30
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.5, y: -15.000001}
+        - {x: -96.5, y: 15.000001}
+        - {x: 96.5, y: 15.000001}
+        - {x: 96.5, y: -15.000001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelKnif
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 586
+        width: 69
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -81.5}
+        - {x: -34.5, y: -39.5}
+        - {x: -34.5, y: 37.5}
+        - {x: -12.5, y: 77.5}
+        - {x: -7.5000005, y: 81.5}
+        - {x: 10.5, y: 81.5}
+        - {x: 34.5, y: 0.5}
+        - {x: 34.5, y: -22.5}
+        - {x: 10.5, y: -77.5}
+        - {x: 8.5, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atestopp
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 483
+        width: 107
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -51}
+        - {x: -53.500004, y: -46}
+        - {x: -53.500004, y: 38}
+        - {x: -27.5, y: 51}
+        - {x: 45.5, y: 51}
+        - {x: 53.500004, y: 41}
+        - {x: 53.500004, y: -25}
+        - {x: 49.5, y: -45}
+        - {x: 45.5, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buz1a
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 133
+        width: 112
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -54.5}
+        - {x: -56, y: -34.5}
+        - {x: -56, y: 32.5}
+        - {x: -37, y: 54.5}
+        - {x: 38, y: 54.5}
+        - {x: 56, y: 46.5}
+        - {x: 56, y: -41.5}
+        - {x: 32, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roket_alt
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 540
+        width: 93
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -39}
+        - {x: -46.5, y: -39}
+        - {x: -46.5, y: 31}
+        - {x: -43.5, y: 39}
+        - {x: 45.5, y: 39}
+        - {x: 46.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roket_ust
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 472
+        width: 82
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -36}
+        - {x: -41, y: -36}
+        - {x: -41, y: 2}
+        - {x: -22, y: 36}
+        - {x: 16, y: 36}
+        - {x: 41, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketsag
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 622
+        width: 12
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -25.5}
+        - {x: -6, y: 25.5}
+        - {x: 6, y: 25.5}
+        - {x: 6, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketsol
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 772
+        width: 12
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -25.5}
+        - {x: -6, y: 25.5}
+        - {x: 6, y: 25.5}
+        - {x: 6, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuvarlak3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 263
+        width: 81
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -40.5}
+        - {x: -40.5, y: -31.5}
+        - {x: -40.5, y: 22.5}
+        - {x: -35.5, y: 40.5}
+        - {x: 26.499998, y: 40.5}
+        - {x: 40.5, y: 30.5}
+        - {x: 40.5, y: -35.5}
+        - {x: 28.5, y: -40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asansor_Takipli
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 985
+        width: 237
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: -18.5}
+        - {x: -118.49999, y: -16.5}
+        - {x: -118.49999, y: 16.5}
+        - {x: -116.5, y: 18.5}
+        - {x: 116.5, y: 18.5}
+        - {x: 118.49999, y: 16.5}
+        - {x: 118.49999, y: -16.5}
+        - {x: 116.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asansor_TakipliL
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 689
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.500001, y: -7}
+        - {x: -13.500001, y: 7}
+        - {x: 13.500001, y: 7}
+        - {x: 13.500001, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yosun5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 509
+        width: 93
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -42.499992}
+        - {x: -46.5, y: -11.499992}
+        - {x: -46.5, y: 42.500008}
+        - {x: 34.5, y: 42.500008}
+        - {x: 46.5, y: 39.500008}
+        - {x: 46.5, y: -23.499992}
+        - {x: 16.5, y: -42.499992}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombacci
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 105
+        width: 173
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -12.5}
+        - {x: -86.5, y: 12.5}
+        - {x: 86.5, y: 12.5}
+        - {x: 86.5, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalKutu2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 241
+        width: 91
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -45.5}
+        - {x: -45.5, y: -45.5}
+        - {x: -45.5, y: 45.5}
+        - {x: 45.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorra2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 335
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -13}
+        - {x: -24, y: 13}
+        - {x: 24, y: 13}
+        - {x: 24, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kok2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 28
+        width: 214
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: 1.5}
+        - {x: -107.00001, y: 25.5}
+        - {x: -107.00001, y: 37.5}
+        - {x: -52, y: 37.5}
+        - {x: -31, y: 20.5}
+        - {x: -28, y: 22.5}
+        - {x: -22, y: 22.5}
+        - {x: -21, y: 21.5}
+        - {x: -21, y: 16.5}
+        - {x: -22, y: 13.500001}
+        - {x: -18, y: 10.5}
+        - {x: -5, y: 32.5}
+        - {x: 54.000004, y: 37.5}
+        - {x: 104.99999, y: 37.5}
+        - {x: 107.00001, y: 24.5}
+        - {x: 107.00001, y: 1.5}
+        - {x: 95, y: -20.5}
+        - {x: 65, y: -25.5}
+        - {x: 16, y: -13.500001}
+        - {x: 15.000001, y: -9.5}
+        - {x: 17, y: -7.5000005}
+        - {x: 20, y: -6.5}
+        - {x: 11, y: -3.5}
+        - {x: 16, y: -13.500001}
+        - {x: 18, y: -17.5}
+        - {x: 2, y: -37.5}
+        - {x: -49, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kok3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 899
+        width: 202
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 58.499996}
+        - {x: -57, y: 61.5}
+        - {x: -51, y: 61.5}
+        - {x: -51, y: 60.5}
+        - {x: -52.999996, y: 58.499996}
+      - - {x: -99, y: 16.5}
+        - {x: -101, y: 18.5}
+        - {x: -101, y: 31.5}
+        - {x: -44, y: 32.5}
+        - {x: -28, y: 25.5}
+        - {x: -26, y: 27.5}
+        - {x: -23, y: 28.5}
+        - {x: -19, y: 23.5}
+        - {x: -15.000001, y: 4.5}
+        - {x: -15.000001, y: -0.5}
+        - {x: -16, y: -2.5}
+        - {x: -25, y: -7.5000005}
+        - {x: -19, y: -18.5}
+        - {x: -20, y: -6.5}
+        - {x: 9, y: 14.5}
+        - {x: 17, y: 41.5}
+        - {x: 61, y: 41.5}
+        - {x: 76, y: 21.5}
+        - {x: 77, y: 16.5}
+        - {x: 81, y: 0.5}
+        - {x: 94, y: 9.5}
+        - {x: 89, y: 15.5}
+        - {x: 92, y: 11.5}
+        - {x: 92, y: 9.5}
+        - {x: 89, y: 6.5}
+        - {x: 84, y: 6.5}
+        - {x: 79, y: 10.5}
+        - {x: 77, y: 19.5}
+        - {x: 82, y: 26.499998}
+        - {x: 92, y: 27.5}
+        - {x: 101, y: 20.5}
+        - {x: 101, y: -8.5}
+        - {x: 97, y: -16.5}
+        - {x: 52, y: -16.5}
+        - {x: 38, y: -18.5}
+        - {x: 37, y: -14.5}
+        - {x: 46, y: -0.5}
+        - {x: 41, y: 1.5}
+        - {x: 38, y: 3.5}
+        - {x: 33, y: 1.5}
+        - {x: 36, y: 0.5}
+        - {x: 38, y: -10.5}
+        - {x: 21, y: -53.500004}
+        - {x: 7, y: -61.5}
+        - {x: -62, y: -61.5}
+        - {x: -101, y: -39.5}
+        - {x: -101, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal3lu
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 740
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: -13, y: 16}
+        - {x: 13, y: 16}
+        - {x: 13, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuvarlak2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 334
+        width: 144
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -72}
+        - {x: -72, y: -60.000004}
+        - {x: -72, y: 65}
+        - {x: -52.999996, y: 72}
+        - {x: 30.000002, y: 72}
+        - {x: 52.999996, y: 67}
+        - {x: 72, y: 54.000004}
+        - {x: 72, y: -48}
+        - {x: 58, y: -72}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buztasi2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 616
+        width: 97
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -39}
+        - {x: -48.5, y: -29}
+        - {x: -48.5, y: 17}
+        - {x: -34.5, y: 39}
+        - {x: 21.5, y: 39}
+        - {x: 45.5, y: 33}
+        - {x: 48.5, y: 24}
+        - {x: 48.5, y: -16}
+        - {x: 45.5, y: -24}
+        - {x: 11.5, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goktas_kucuk1
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 405
+        width: 66
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -30.000002}
+        - {x: -33, y: -20}
+        - {x: -33, y: 23}
+        - {x: -25, y: 30.000002}
+        - {x: 26, y: 30.000002}
+        - {x: 33, y: 27.000002}
+        - {x: 33, y: -18}
+        - {x: 21, y: -30.000002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goktas_kucuk2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 819
+        width: 89
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -39}
+        - {x: -44.5, y: -39}
+        - {x: -44.5, y: 24}
+        - {x: -29.499998, y: 39}
+        - {x: 32.5, y: 39}
+        - {x: 44.5, y: 15.000001}
+        - {x: 44.5, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kartopmini
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 228
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -33.5}
+        - {x: -37.5, y: -19.5}
+        - {x: -37.5, y: 30.5}
+        - {x: -19.5, y: 37.5}
+        - {x: 26.499998, y: 37.5}
+        - {x: 37.5, y: 21.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 23.5, y: -37.5}
+        - {x: -16.5, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lava2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 750
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -28.5}
+        - {x: -31, y: -19.5}
+        - {x: -31, y: 15.5}
+        - {x: -15.000001, y: 32.5}
+        - {x: -8, y: 36.5}
+        - {x: 24, y: 36.5}
+        - {x: 31, y: 22.5}
+        - {x: 31, y: -22.5}
+        - {x: 9, y: -36.5}
+        - {x: -14, y: -36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuvaletkagidi
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 353
+        width: 96
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -30.000002}
+        - {x: -48, y: -30.000002}
+        - {x: -48, y: 30.000002}
+        - {x: 21, y: 30.000002}
+        - {x: 48, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgiz2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 335
+        width: 45
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -13}
+        - {x: -22.5, y: 13}
+        - {x: 22.5, y: 13}
+        - {x: 22.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAtar
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 886
+        width: 147
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -68}
+        - {x: -73.5, y: -46}
+        - {x: -73.5, y: 68}
+        - {x: 22.5, y: 68}
+        - {x: 73.5, y: 58.999996}
+        - {x: 73.5, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGovde3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 148
+        width: 99
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -49.5}
+        - {x: -49.5, y: -29.499998}
+        - {x: -49.5, y: 41.5}
+        - {x: -48.5, y: 49.5}
+        - {x: 49.5, y: 49.5}
+        - {x: 49.5, y: -49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 87
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -24}
+        - {x: -43.5, y: -9}
+        - {x: -43.5, y: 24}
+        - {x: 43.5, y: 24}
+        - {x: 43.5, y: -11}
+        - {x: 14.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz2kapa
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 88
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -24}
+        - {x: -44, y: -9}
+        - {x: -44, y: 24}
+        - {x: 44, y: 24}
+        - {x: 44, y: -11}
+        - {x: 14, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBeb2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz1Atici
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 109
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -22.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -21.5, y: 22.5}
+        - {x: 17.5, y: 22.5}
+        - {x: 21.5, y: 20.5}
+        - {x: 21.5, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBebAtici
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 102
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 13}
+        - {x: 13, y: 13}
+        - {x: 13, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozlKapaAtici
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 203
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -23.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -22.5, y: 23.5}
+        - {x: 18.5, y: 23.5}
+        - {x: 22.5, y: 19.5}
+        - {x: 22.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metalKutu1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 241
+        width: 91
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -45.5}
+        - {x: -45.5, y: -45.5}
+        - {x: -45.5, y: 45.5}
+        - {x: 45.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal2merkez
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 121
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -14.5}
+        - {x: -22.5, y: -11.5}
+        - {x: -22.5, y: 11.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -14.5, y: 20.5}
+        - {x: -11.5, y: 22.5}
+        - {x: 11.5, y: 22.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 22.5, y: 13.500001}
+        - {x: 22.5, y: -16.5}
+        - {x: 11.5, y: -22.5}
+        - {x: -11.5, y: -22.5}
+        - {x: -14.5, y: -20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerlikMerkez
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 769
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.000001, y: -24}
+        - {x: -24, y: -15.000001}
+        - {x: -24, y: 15.000001}
+        - {x: -20, y: 24}
+        - {x: 17, y: 24}
+        - {x: 24, y: 21}
+        - {x: 24, y: -14}
+        - {x: 15.000001, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgiz
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 100
+        width: 44
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -13}
+        - {x: -22, y: 13}
+        - {x: 22, y: 13}
+        - {x: 22, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliAgiz6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5
+        width: 35
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -10.5}
+        - {x: -17.5, y: 10.5}
+        - {x: 17.5, y: 10.5}
+        - {x: 17.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGovd
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 497
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -39.5}
+        - {x: -47.5, y: -21.5}
+        - {x: -47.5, y: 26.499998}
+        - {x: -30.5, y: 47.5}
+        - {x: 35.5, y: 47.5}
+        - {x: 41.5, y: 46.5}
+        - {x: 47.5, y: 37.5}
+        - {x: 47.5, y: -27.5}
+        - {x: 40.5, y: -47.5}
+        - {x: -25.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 416
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -21}
+        - {x: -19.5, y: -21}
+        - {x: -19.5, y: 19}
+        - {x: -17.5, y: 21}
+        - {x: 15.5, y: 21}
+        - {x: 19.5, y: 20}
+        - {x: 19.5, y: -15.000001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGoz1kapa
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 111
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -21.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -21.5, y: 14.5}
+        - {x: -18.5, y: 21.5}
+        - {x: 15.5, y: 21.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 21.5, y: -13.500001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBeb
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 675
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -9.5}
+        - {x: -9.5, y: 9.5}
+        - {x: 9.5, y: 9.5}
+        - {x: 9.5, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorra1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 335
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -13}
+        - {x: -23, y: 13}
+        - {x: 23, y: 13}
+        - {x: 23, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaya2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 116
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -43}
+        - {x: -58, y: -34}
+        - {x: -58, y: 49}
+        - {x: 58, y: 49}
+        - {x: 58, y: -45}
+        - {x: 48, y: -49}
+        - {x: -52, y: -49}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 893
+        width: 35
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 32.5}
+        - {x: -5.5, y: 38.5}
+        - {x: -5.5, y: 64.5}
+        - {x: 10.5, y: 64.5}
+        - {x: 10.5, y: 32.5}
+        - {x: 6.5, y: 32.5}
+        - {x: 12.5, y: 30.5}
+        - {x: 17.5, y: 3.5}
+        - {x: 17.5, y: -58.5}
+        - {x: 12.5, y: -64.5}
+        - {x: -11.5, y: -64.5}
+        - {x: -17.5, y: -60.5}
+        - {x: -17.5, y: 2.5}
+        - {x: -1.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 883
+        width: 33
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 58.5}
+        - {x: -7.5000005, y: 62.5}
+        - {x: -7.5000005, y: 68.5}
+        - {x: -6.5, y: 69.5}
+        - {x: 4.5, y: 69.5}
+        - {x: 5.5, y: 68.5}
+        - {x: 5.5, y: 63.5}
+        - {x: 3.5, y: 58.5}
+      - - {x: 3.5, y: 43.5}
+        - {x: 0.5, y: 47.499992}
+        - {x: 0.5, y: 53.5}
+        - {x: 7.5000005, y: 53.5}
+        - {x: 8.5, y: 50.500008}
+        - {x: 8.5, y: 44.5}
+        - {x: 6.5, y: 43.5}
+        - {x: 8.5, y: 43.5}
+        - {x: 16.5, y: 38.500008}
+        - {x: 16.5, y: -69.5}
+        - {x: -13.500001, y: -69.5}
+        - {x: -16.5, y: -67.5}
+        - {x: -16.5, y: 30.5}
+        - {x: -13.500001, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 883
+        width: 34
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 61.5}
+        - {x: -6, y: 65.5}
+        - {x: -6, y: 68.5}
+        - {x: -5, y: 69.5}
+        - {x: 3, y: 69.5}
+        - {x: 4, y: 68.5}
+        - {x: 4, y: 62.5}
+        - {x: 0, y: 61.5}
+      - - {x: 17, y: -69.5}
+        - {x: -17, y: -69.5}
+        - {x: -17, y: 1.5}
+        - {x: -10, y: 42.5}
+        - {x: 5, y: 42.5}
+        - {x: 13, y: 31.5}
+        - {x: 17, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 34
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -55}
+        - {x: -17, y: -55}
+        - {x: -17, y: 8}
+        - {x: -5, y: 8}
+        - {x: -9, y: 10}
+        - {x: -17, y: 24}
+        - {x: -17, y: 25}
+        - {x: -10, y: 52.000008}
+        - {x: -2, y: 55}
+        - {x: 12, y: 55}
+        - {x: 17, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 128
+        width: 35
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -57}
+        - {x: -17.5, y: -57}
+        - {x: -17.5, y: -11}
+        - {x: -13.500001, y: -9}
+        - {x: -11.5, y: -9}
+        - {x: -16.5, y: -6}
+        - {x: -17.5, y: 7}
+        - {x: -17.5, y: 22}
+        - {x: -12.5, y: 46}
+        - {x: -12.5, y: 56}
+        - {x: -10.5, y: 57}
+        - {x: 4.5, y: 57}
+        - {x: 17.5, y: 10}
+        - {x: 17.5, y: 5}
+        - {x: 14.5, y: 3.0000038}
+        - {x: 8.5, y: -4.000004}
+        - {x: 10.5, y: -2}
+        - {x: 14.5, y: 1}
+        - {x: 17.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 359
+        width: 32
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -10, y: 54}
+        - {x: -10, y: 59.000008}
+        - {x: -9, y: 61}
+        - {x: 1, y: 61}
+        - {x: 1, y: 52}
+        - {x: -1, y: 51}
+      - - {x: 2, y: -12}
+        - {x: 7, y: -13}
+        - {x: 6, y: -6}
+        - {x: 6, y: -5}
+        - {x: 3, y: -3}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 362
+        width: 34
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 52.5}
+        - {x: -1, y: 54.5}
+        - {x: -1, y: 59.500008}
+        - {x: 7, y: 59.500008}
+        - {x: 7, y: 55.5}
+        - {x: 4, y: 52.5}
+      - - {x: 17, y: -59.5}
+        - {x: -17, y: -59.5}
+        - {x: -17, y: -2.5}
+        - {x: -11, y: 12.5}
+        - {x: -9, y: 12.5}
+        - {x: -9, y: 41.5}
+        - {x: -1, y: 45.499992}
+        - {x: 6, y: 45.499992}
+        - {x: 14, y: 34.5}
+        - {x: 14, y: 16.5}
+        - {x: 9, y: 10.5}
+        - {x: 7, y: 10.5}
+        - {x: 17, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 130
+        width: 37
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -56}
+        - {x: -18.5, y: -46}
+        - {x: -18.5, y: 26}
+        - {x: -6.5, y: 49.999992}
+        - {x: -1.5, y: 56}
+        - {x: 8.5, y: 56}
+        - {x: 18.5, y: 30}
+        - {x: 18.5, y: -56}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliSapka
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 74
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -24.5}
+        - {x: -37, y: -24.5}
+        - {x: -37, y: 16.5}
+        - {x: -31, y: 24.5}
+        - {x: 33, y: 24.5}
+        - {x: 37, y: 2.500002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliTepeli
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 460
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -25}
+        - {x: -39, y: -14}
+        - {x: -39, y: 14}
+        - {x: -34, y: 25}
+        - {x: -25, y: 34}
+        - {x: -18, y: 39}
+        - {x: 35, y: 39}
+        - {x: 39, y: 25}
+        - {x: 39, y: -23}
+        - {x: 36, y: -26}
+        - {x: 17, y: -39}
+        - {x: -14, y: -39}
+        - {x: -25, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliSapka2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 770
+        width: 74
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -23.5}
+        - {x: -37, y: -23.5}
+        - {x: -37, y: 15.5}
+        - {x: -30.000002, y: 23.5}
+        - {x: 33, y: 23.5}
+        - {x: 37, y: 5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UzayliSapka3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 616
+        width: 74
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -23}
+        - {x: -37, y: -23}
+        - {x: -37, y: 23}
+        - {x: 37, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DikenliBomb2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 156
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -22.5}
+        - {x: -22.5, y: -20.5}
+        - {x: -22.5, y: 22.5}
+        - {x: 22.5, y: 22.5}
+        - {x: 22.5, y: -5.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 11.5, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGoz2w
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 816
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -17.5}
+        - {x: -16, y: -17.5}
+        - {x: -16, y: 17.5}
+        - {x: 15.000001, y: 17.5}
+        - {x: 16, y: 13.500001}
+        - {x: 16, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliGozBeb2Boss
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 384
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -7}
+        - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uzayliTepeliKapa
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 853
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -18}
+        - {x: -17, y: -17}
+        - {x: -17, y: 15.000001}
+        - {x: -11, y: 18}
+        - {x: 10, y: 18}
+        - {x: 17, y: 11}
+        - {x: 17, y: -17}
+        - {x: 12, y: -18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asansor_Takipli: 21300202
+      Asansor_TakipliL: 21300204
+      Berry: 21300162
+      Berry2: 21300164
+      BerryGovde: 21300166
+      BerrySap: 21300168
+      Bombacci: 21300208
+      Bubbll: 21300082
+      Colorra1: 21300270
+      Colorra2: 21300212
+      Colorra3: 21300090
+      DikenliBomb: 21300022
+      DikenliBomb2: 21300298
+      DikenliDiken: 21300170
+      DikenliGovd: 21300172
+      DikenliSap: 21300174
+      DikkNokta: 21300092
+      Gurzu: 21300176
+      MantarKirmizi: 21300100
+      MantarKirmizi2: 21300102
+      MiniGoz: 21300024
+      MiniGoz2w: 21300300
+      MiniGozKapa: 21300026
+      Misket: 21300078
+      UzayKilic: 21300000
+      UzaylZirhi: 21300002
+      UzayliSapka: 21300290
+      UzayliSapka2: 21300294
+      UzayliSapka3: 21300296
+      UzayliYercekColor: 21300042
+      UzayliYercekColorA: 21300050
+      UzayliYercekimci: 21300044
+      YercekimEL: 21300046
+      YercekimEL2: 21300048
+      YercekimEL2S: 21300052
+      YercekimELS: 21300054
+      YiyiciDiken: 21300178
+      YiyiciOrta: 21300180
+      YiyiciSag: 21300182
+      YiyiciSol: 21300184
+      angelKnif: 21300186
+      atestop: 21300126
+      atestopp: 21300188
+      blokDikAlt: 21300094
+      blokDikUst: 21300096
+      blokDikUst2: 21300070
+      buz1a: 21300190
+      buztasi: 21300066
+      buztasi2: 21300222
+      dallar2: 21300152
+      dallar3: 21300128
+      dallar4: 21300138
+      dallar5: 21300154
+      dallar6: 21300130
+      dinamitler: 21300034
+      fire1: 21300274
+      fire2: 21300276
+      fire3: 21300278
+      fire4: 21300280
+      fire5: 21300282
+      fire6: 21300284
+      fire7: 21300286
+      fire8: 21300288
+      gizlenenBlok: 21300084
+      gizlenenBlokL: 21300086
+      goktas_buyuk1: 21300132
+      goktas_buyuk2: 21300134
+      goktas_kucuk1: 21300224
+      goktas_kucuk2: 21300226
+      kapiRot: 21300112
+      kapiRotM: 21300114
+      kapiRotN: 21300072
+      kartop1: 21300068
+      kartopmini: 21300228
+      kaya2: 21300272
+      kaya_tile2: 21300156
+      kaya_tile4: 21300158
+      kaya_tileD1: 21300160
+      kisakapi: 21300074
+      kok2: 21300214
+      kok3: 21300216
+      kristali: 21300036
+      lastik: 21300098
+      lava2: 21300230
+      lazerlikMerkez: 21300256
+      mantarDip: 21300104
+      mantarMini: 21300106
+      merkezx: 21300108
+      metal2merkez: 21300254
+      metal3c: 21300080
+      metal3lu: 21300218
+      metalKutu1: 21300252
+      metalKutu2: 21300210
+      metalKutu3: 21300088
+      mum: 21300038
+      mumates: 21300040
+      otlukaya: 21300142
+      otlukaya2: 21300144
+      otlukaya3: 21300136
+      otlukayaUcan: 21300146
+      otlukayaUcan2: 21300148
+      otlukayaUcan3: 21300150
+      roket_alt: 21300192
+      roket_ust: 21300194
+      roketsag: 21300196
+      roketsol: 21300198
+      tuvaletkagidi: 21300232
+      uzaylAgizYer: 21300058
+      uzaylAgizYerD: 21300060
+      uzayliAgiz: 21300258
+      uzayliAgiz2: 21300234
+      uzayliAgiz3: 21300004
+      uzayliAgiz5: 21300006
+      uzayliAgiz6: 21300260
+      uzayliAgizNinja: 21300028
+      uzayliAtar: 21300236
+      uzayliDikenler: 21300008
+      uzayliGovd: 21300262
+      uzayliGovd2: 21300010
+      uzayliGovde3: 21300238
+      uzayliGoz1: 21300264
+      uzayliGoz1Atici: 21300246
+      uzayliGoz1Yer: 21300062
+      uzayliGoz1YerK: 21300064
+      uzayliGoz1kapa: 21300266
+      uzayliGoz2: 21300240
+      uzayliGoz2kapa: 21300242
+      uzayliGoz3: 21300012
+      uzayliGoz3kapa: 21300014
+      uzayliGozBeb: 21300268
+      uzayliGozBeb2: 21300244
+      uzayliGozBeb2Boss: 21300302
+      uzayliGozBeb2x: 21300056
+      uzayliGozBeb2y: 21300030
+      uzayliGozBebAtici: 21300248
+      uzayliGozBebBoss: 21300032
+      uzayliGozlKapaAtici: 21300250
+      uzayliKasSag: 21300016
+      uzayliKasSol: 21300018
+      uzayliKilicli: 21300020
+      uzayliTepeli: 21300292
+      uzayliTepeliKapa: 21300304
+      yosun1: 21300116
+      yosun2: 21300118
+      yosun3: 21300120
+      yosun4: 21300122
+      yosun5: 21300206
+      yosun6: 21300124
+      yuvarlak1: 21300076
+      yuvarlak2: 21300220
+      yuvarlak3: 21300200
+      yuvarlakBuyuk: 21300110
+      yuvarlakMini: 21300140
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
