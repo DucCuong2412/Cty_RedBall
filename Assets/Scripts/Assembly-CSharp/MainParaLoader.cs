@@ -11,9 +11,9 @@ public class MainParaLoader : MonoBehaviour
 		GameObject gameObject = GameObject.FindGameObjectWithTag("AdsMerkex");
 		if (gameObject == null)
 		{
-			AdsGO = Object.Instantiate(Resources.Load("AdCenter", typeof(GameObject))) as GameObject;
-			AdsGO.name = "AdsCenterGo";
-			Object.DontDestroyOnLoad(AdsGO);
+			//AdsGO = Object.Instantiate(Resources.Load("AdCenter", typeof(GameObject))) as GameObject;
+			//AdsGO.name = "AdsCenterGo";
+			//Object.DontDestroyOnLoad(AdsGO);
 		}
 	}
 

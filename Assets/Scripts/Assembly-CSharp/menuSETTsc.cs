@@ -10,7 +10,7 @@ public class menuSETTsc : MonoBehaviour
 	{
 		Sel1 = GameObject.Find("okkey1");
 		Sel2 = GameObject.Find("okkey2");
-		Sel1.SetActive(false);
+		//Sel1.SetActive(false);
 		Sel2.SetActive(false);
 		int @int = PlayerPrefs.GetInt("SanalJoystik");
 		if (@int == 1)
