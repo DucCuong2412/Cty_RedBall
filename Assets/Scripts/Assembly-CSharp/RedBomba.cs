@@ -68,7 +68,7 @@ public class RedBomba : MonoBehaviour
 			if (component != null)
 			{
 				vector.x = collider2D.gameObject.transform.position.x - base.transform.position.x;
-				vector.y = collider2D.gameObject.transform.position.y - base.transform.position.y + 0.3f;
+				vector.y = collider2D.gameObject.transform.position.y - base.transform.position.y + 0.5f;
 				if (collider2D.gameObject.tag == "Player")
 				{
 					component.velocity = Vector2.up * HIZ * 2f;

@@ -158,7 +158,13 @@ public class ParmaklarSc : MonoBehaviour
 					PhaseKontrol(Input.GetTouch(i), j);
 				}
 			}
-		}
+            Player.k_sol = Input.GetKey(KeyCode.A);
+            Player.k_sag = Input.GetKey(KeyCode.D);
+            Player.k_ust = Input.GetKey(KeyCode.Space);
+            Player.k_bomba = Input.GetKey(KeyCode.K);
+            Player.k_jet = Input.GetKeyDown(KeyCode.J);
+            Player.k_kalkan = Input.GetKeyDown(KeyCode.L);
+        }
 	}
 
 	public void ButonGoster(bool aktif)
